@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "kitetail/zttp": "^0.6.0",
+        "kitetail/zttp": "dev-master",
         "php-http/guzzle6-adapter": "^2.0",
         "omnipay/common": "^3.0"
     },
